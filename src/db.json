@@ -1,0 +1,21 @@
+{
+  "books": [],
+  "authors": [
+    {
+      "id": "9a5c7a48-a3b7-4d04-8567-b1433117e8d3",
+      "name": "Ernesto Sabato"
+    },
+    {
+      "id": "d3b3b351-f56d-4427-81bb-c09e83859e6f",
+      "name": "Jorge Luis Borges"
+    },
+    {
+      "id": "866acd25-b19d-4206-9b68-f4df1826c369",
+      "name": "Julio Cortazar"
+    },
+    {
+      "id": "e487a888-329a-4ba4-9c2c-a436c6fa865d",
+      "name": "Mark Twain"
+    }
+  ]
+}
